@@ -1,0 +1,6 @@
+[
+  "tests/test_buy_product.py::test_buy_product",
+  "tests/test_buy_product.py::test_buy_product_2",
+  "tests/test_buy_product.py::test_buy_tv",
+  "tests/test_link_journal.py::test_link_journal"
+]
